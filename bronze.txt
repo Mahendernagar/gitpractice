@@ -1,1 +1,3 @@
 I am writing text to commit to feature 1 
+
+second time i am from feature 1
