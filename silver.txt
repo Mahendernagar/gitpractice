@@ -5,9 +5,17 @@
 
  i am adding from feture 2 
 
+<<<<<<< HEAD
  hi I am from silver file feature 1
 
 
  i am adding from feture 2 
 
  hi I am from silver file feature 1
+=======
+
+ first
+
+
+ second 
+>>>>>>> feature_2
